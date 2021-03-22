@@ -1,4 +1,3 @@
-- ### Hi there 👋
 ## 📌 GitHub Stats And Top Languages
 
 <a href="https://github.com/harunalbayrak">
