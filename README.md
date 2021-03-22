@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 📌 GitHub Stats And Top Languages
+
+<a href="https://github.com/harunalbayrak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harunalbayrak&show_icons=true&theme=tokyonight"/>
+</a>
+
 <!--
 **harunalbayrak/harunalbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
