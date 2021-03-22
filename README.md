@@ -7,7 +7,7 @@
 
 ## 📫 How to Reach Me
 
-[![Linkedin Badge](https://img.shields.io/badge/harunalbayrak-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harunalbayrak/)
+[![Linkedin Badge](https://img.shields.io/badge/harunalbayrak-message-181717?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/harunalbayrak/)
 
 <!--
 **harunalbayrak/harunalbayrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
